@@ -47,7 +47,12 @@ This project was developed as part of academic research on game accessibility an
 - 3D and spatial audio visualization  
 - Multimodal interaction systems (visual + haptic)  
 - Integration with VR environments  
-- User studies with accessibility-focused audiences  
+- User studies with accessibility-focused audiences
+
+## Important observation
+This repository contains the core implementation of UtopicSense.
+
+A complete version of the tool, including example scenes and assets, is available on the Unity Asset Store.
 
 ## License
 
